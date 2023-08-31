@@ -15,7 +15,6 @@
 ## Participants
 
 - 나구리하
-- 이윤학
   - [나기 / 이윤학](https://github.com/Naknakk)
   - [구밥 / 임지원](https://github.com/baabguui)
   - [리버 / 이경수](https://github.com/kyxxgsoo)
