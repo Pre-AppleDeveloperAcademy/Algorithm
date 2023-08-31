@@ -14,7 +14,7 @@
 
 ## Participants
 
-- 나구리하
+- 나구리라
   - [나기 / 이윤학](https://github.com/Naknakk)
   - [구밥 / 임지원](https://github.com/baabguui)
   - [리버 / 이경수](https://github.com/kyxxgsoo)
@@ -34,11 +34,11 @@
 ### PR Rule
 
 - 이 Repository를 각자 Fork합니다.
-- 각자의 닉네임으로 Fork한 Repository에서 branching합니다. (Ex. 'Jeckmu' 브랜치 생성)
+- 각자의 닉네임으로 Fork한 Repository에서 branching합니다. (Ex. 'Liver' 브랜치 생성)
 - 푼 문제(+풀이과정, 설명)을 commit 후 PR 요청을 합니다.
-- 각 팀의 미팅 시간에, 각 팀의 리더가 PR을 확인하고 Merge합니다.
+- 미팅 시간에, 리더가 PR을 확인하고 Merge합니다.
 - PR Message
-  `[N주차] 닉네임` (Ex. `[1주차] Jeckmu`)
+  `[N주차] 닉네임` (Ex. `[1주차] Liver`)
 
 ### Commit Rule
 
@@ -47,7 +47,7 @@
   > 예시
   >
   > ```bash
-  > Jeckmu
+  > Liver
   > ├── [백준 - 1000] A+B
   > │   ├── [백준 - 1000] A+B.py
   > │   └── [백준 - 1000] 풀이.md
@@ -57,7 +57,7 @@
   1. 문제별로 하나씩 commit할 때는 `[N주차] [문제 사이트 - 문제 번호] 문제명`
      - Ex. `[1주차] [백준 - 1000] A+B`
   2. 주차별로 한번에 commit할 때는 `[N주차] 닉네임`
-     - Ex. `[1주차] Jeckmu`
+     - Ex. `[1주차] Liver`
 
 <br />
 
