@@ -7,18 +7,15 @@
 ## ⏰ Time & Period
 
 - 기간 : 8월 5째주 ~
-- Meeting
-  - 월요일 11:30am
+- Meeting : 매주 월요일 11:30am
 
 <br/>
 
 ## 🧑🏻‍💻 Participants
 
-- 나구리라
-  - [나기 / 이윤학](https://github.com/Naknakk)
-  - [구밥 / 임지원](https://github.com/baabguui)
-  - [리버 / 이경수](https://github.com/kyxxgsoo)
-  - [라프 / 허예강](https://github.com/ye-gang-jjang)
+|나기/이윤학|구밥/임지원|리버/이경수|라프/허예강|
+|:----:|:----:|:----:|:----:|
+|<a href="https://github.com/Naknakk">@Naknakk</a>|<a href="https://github.com/baabguui">@baabguui</a>|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/ye-gang-jjang">@ye-gang-jjang</a>|
 
 <br/>
 
