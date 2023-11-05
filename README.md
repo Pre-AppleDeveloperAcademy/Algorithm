@@ -109,11 +109,11 @@
 
 
 ## 📚 History
-
+### 🛳️ Season 1
 | 주차 | 테마                                                     | 문제 번호 및 이름                                            |
 | :--- | :------------------------------------------------------- | :----------------------------------------------------------- |
 | 1    | 백준                                                      | [백준] [1213. 팰린드롬 만들기 (Silver III)](https://www.acmicpc.net/problem/1213)<br/> [백준] [2839 설탕 배달 (Silver IV)](https://www.acmicpc.net/problem/2839)<br/> [백준] [1158. 요세푸스 문제 (Silver IV)](https://www.acmicpc.net/problem/1158)<br/> [백준] [10808. 알파벳 개수 (Bronze IV)](https://www.acmicpc.net/problem/10808) |
-| 2    | BFS                                                      | [백준] [2606. 바이러스 (Silver III)](https://www.acmicpc.net/problem/2606)<br/> [백준] [2178. 미로 탐색 (Silver I)](https://www.acmicpc.net/problem/2178)<br/> [백준] [14502. 연구소 (Gold IV)](https://www.acmicpc.net/problem/14502)<br/> [백준] [4179. 불! (Gold IV)](https://www.acmicpc.net/problem/4179)  |
+| 2    | BFS                                                      | [백준] [2606. 바이러스 (Silver III)](https://www.acmicpc.net/problem/2606)<br/> [백준] [2178. 미로 탐색 (Silver I)](https://www.acmicpc.net/problem/2178)<br/> [백준] [14502. 연구소 (Gold IV)](https://www.acmicpc.net/problem/14502)<br/> [백준] [4179. 불! (Gold IV)](https://www.acmicpc.net/problem/4179) |
 | 3    | 자료구조                                                   | [백준] [10799. 쇠막대기 (Silver II)](https://www.acmicpc.net/problem/10799)<br/> [백준] [13335. 트럭 (Silver I)](https://www.acmicpc.net/problem/13335)<br/> [백준] [1406. 에디터(Silver II)](https://www.acmicpc.net/problem/1406)<br/> [백준] [2667. 단지번호붙이기 (Silver I)](https://www.acmicpc.net/problem/2667) |
 | 4    | BFS                                                      | [백준] [16174. 점프왕 쩰리(Large) (Silver I)](https://www.acmicpc.net/problem/16174)<br/> [백준] [1012. 유기농 배추 (Silver II)](https://www.acmicpc.net/problem/1012)<br/> [백준] [4179. 불! (Gold IV)](https://www.acmicpc.net/problem/4179)<br/> [백준] [2468. 안전 영역 (Silver I)](https://www.acmicpc.net/problem/2468) |
 | 5    | 구현                                                      | [백준] [2573. 빙산 (Gold IV)](https://www.acmicpc.net/problem/2573)<br/> [백준] [18111. 마인크래프트 (Silver II)](https://www.acmicpc.net/problem/18111)<br/> [백준] [2161. 카드1 (Silver V)](https://www.acmicpc.net/problem/2161)<br/> [백준] [20006. 랭킹전 대기열 (Silver II)](https://www.acmicpc.net/problem/20006) |
@@ -126,3 +126,19 @@
 | 12   |                                                          |                                                              |
 
 <br/>
+
+### 🌊 Season 2
+| 주차 | 테마                                                     | 문제 번호 및 이름                                            |
+| :--- | :------------------------------------------------------- | :----------------------------------------------------------- |
+| 1    |                                                          |                                                              |
+| 2    |                                                          |                                                              |
+| 3    |                                                          |                                                              |
+| 4    |                                                          |                                                              |
+| 5    |                                                          |                                                              |
+| 6    |                                                          |                                                              |
+| 7    |                                                          |                                                              |
+| 8    |                                                          |                                                              |
+| 9    |                                                          |                                                              |
+| 10   |                                                          |                                                              |
+| 11   |                                                          |                                                              |
+| 12   |                                                          |                                                              |
