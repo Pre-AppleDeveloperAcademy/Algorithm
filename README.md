@@ -7,7 +7,7 @@
 ## ⏰ Time & Period
 
 - 기간 : 8월 5째주 ~
-- Meeting : 매주 월요일 11:30am
+- Meeting : 매주 목요일 10:00pm
 
 <br/>
 
